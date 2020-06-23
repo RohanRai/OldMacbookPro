@@ -1,0 +1,13 @@
+hostname: en-ma-maxzhang-loragw01.coecis.cornell.edu
+username: mtadm
+password: Zn62y3c5cxWsiN2BGZZjbFBT
+
+Updated on 2018-08-06.  Previous e-mail had the incorrect username.
+
+
+AWS
+eerl@cornell.edu
+Eerlwoodsmoke2018!
+
+
+Arduino - currently working out of test.ino and modbus_ttn.ino
